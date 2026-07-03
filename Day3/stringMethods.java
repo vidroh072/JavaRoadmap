@@ -11,6 +11,7 @@ public class stringMethods {
         name = name.toUpperCase();      // Capitalize all letter
         name = name.toLowerCase();      // Lowerize all letter
         name = name.trim();             // Remove Left & Right Spaces
+        // String.join(" | ",sequence)
 
         // Replace Target Sequence Or Char With Given Replacement 
         name = name.replace("pass","LAST");

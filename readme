@@ -38,4 +38,17 @@
  -----------------------------------
 |               Day5                |
  -----------------------------------
-|                                   |
+|   VariableScope                   |
+|   bankingProject      Project4;   |
+|   arrays                          |
+|   varargs                         |   
+|   arrays2d                        |
+|   quizGame            Project5;   |  
+|   rockPaperSessior    Project6;   |  
+|   slotMachine         Project7;   |
+ ===================================
+|               Day6                |
+|     objectOrientedProgramming     |
+ -----------------------------------
+|   oopsBasics                      |
+|   constructor
