@@ -10,7 +10,7 @@ public class input {
         // problem 
         System.out.print("Enter a Number: ");
         int num = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // to fix the problem add after every nextInt
         System.out.print("Enter your grade: ");
         String grade = sc.nextLine();
         System.out.println("your Number is "+" "+num+" "+"grade is "+grade);

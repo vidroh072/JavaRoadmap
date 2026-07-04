@@ -7,6 +7,7 @@ public class Student {
     double gpa;
     boolean isEnrolled;
 
+    // this is automaticaly called on creating object;
     Student(String name,int age,double gpa){
         this.name = name;       // argument setup at creating obj
         this.age = age;

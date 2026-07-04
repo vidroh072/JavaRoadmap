@@ -54,5 +54,6 @@ public class rockPaperSessior {
             System.out.println("Oops You Lost!! 😔");
             System.out.printf("You choose %s & computer choose %s",player,computer);
         }
+        sc.close();
     }
 }

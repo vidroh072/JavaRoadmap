@@ -44,5 +44,6 @@ public class quizGame {
         }
     System.out.println("ThankYou for playing");
     System.out.println("Corrct answers "+correct);
+    sc.close();
     }
 }

@@ -12,6 +12,7 @@ public class varargs {
         result = add(1,2,3,4,5);
         System.out.println(result);
     }
+    // varargs ...numbers as array
     static double add(double ...numbers){        // ... make it array
         double result = 0;
         for (double num : numbers) {

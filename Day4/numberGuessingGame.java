@@ -1,8 +1,5 @@
 package Day4;
 import java.util.Scanner;
-
-import Day2.random;
-
 import java.util.Random;
 
 public class numberGuessingGame {
@@ -28,5 +25,6 @@ public class numberGuessingGame {
                 System.out.printf("No of Attempts %d",attempts);
             }
         } while (randomNum != userNum);
+        sc.close();
     }
 }

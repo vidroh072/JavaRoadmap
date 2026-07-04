@@ -42,6 +42,7 @@ public class slotMachine {
                 checkPrice(symbols, betAmt);
             }
         }
+        sc.close();
     }
 
     static String[] selectSymbols() {

@@ -16,7 +16,7 @@ public class shopingProgram {
         System.out.print("How many Qty is of: ");
         qty = sc.nextInt();
         System.out.println();
-        System.out.println("Your order of "+ item +" Total Qty "+qty+" Total price is "+price);
+        System.out.println("Your order of "+ item +" Total Qty "+qty+" Total price is "+price*qty);
 
         sc.close();
 

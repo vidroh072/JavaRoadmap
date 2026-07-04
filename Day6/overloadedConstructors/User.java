@@ -6,6 +6,7 @@ public class User {
     String email;
     int age;
 
+    // varrying no of constructors
     User(){
         this.name = "temp";
         this.email = "temp@gmail.com";

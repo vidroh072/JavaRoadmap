@@ -24,7 +24,7 @@ public class weightConverter{
         else{
             System.out.println("Exiting Wrong Input!");
         }
-        
+        sc.close();
     }
     
 }

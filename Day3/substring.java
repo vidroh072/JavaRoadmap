@@ -25,6 +25,6 @@ public class substring{
         System.out.printf("Username: %s\n",userName);
         System.out.printf("Domain: %s\n",domain);
 
-    
+    sc.close();
     }
 }
