@@ -1,0 +1,25 @@
+- Collections are classes that store data more efficiently than plain
+  arrays in many situtaion.
+-  JCF JAVA colloection framework is a set of classes and interfaces
+   used to store and manipulate groups of objects efficiently.
+
+Collections
+|
+|---- List
+|     |---- ArrayList *1
+|     |---- LinkedList
+|     |---- Vector
+|
+|---- Set
+|     |---- HashSet *3
+|     |---- LinkedHashSet
+|     |---- TreeSet
+|
+|---- Queue
+      |---- PriorityQueue
+      |---- ArrayDeque
+
+Map (seprate hierarchy)
+|---- HashMap *2
+|---- LinkedHashMap
+|---- TreeMap

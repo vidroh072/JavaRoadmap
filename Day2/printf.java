@@ -5,8 +5,8 @@ public class printf{
 
         // %[flags][width][.precision][specifier-character]
 
-        String name = "Vikas";
         char first = 'V';
+        String name = "Vikas";
         int age = 30;
         double height = 60.5;
         boolean isEmployee = true;

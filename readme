@@ -47,7 +47,7 @@
 |   rockPaperSessior    Project6;   |  
 |   slotMachine         Project7;   |
  ===================================
-|               Day6                |
+|                                   |
 |     objectOrientedProgramming     |
  -----------------------------------
 |   oopsBasics                      |
@@ -56,10 +56,26 @@
 |   arrayOfObject                   |
 |   Static                          |
  -----------------------------------
-|               Day7                |
+|            OOps Pillar            |
  -----------------------------------
-|   inheritance                     |
+|   Encapsultion                    |
+|   Inheritance                     |
+|   Polymorphism                    |
+|   Abstract                        |
+ -----------------------------------
+|            MoreAboutOOps          |
+ -----------------------------------
 |   super                           |
 |   MethodOverloading               |
 |   ToString                        |
-|   Abstract
+|   Interface                       |
+ -----------------------------------
+|             Exception             |
+ -----------------------------------
+|   ExceptionalHandling             |
+|   Throw                           |
+|   CustomException                 |
+ -----------------------------------
+|           Collections             |
+|   Array                           |
+|
