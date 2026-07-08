@@ -54,6 +54,10 @@ public class LinkedListJava {
 
         // remove   -- fast
         students.remove(0);
+        System.out.println(students);
+
+        // size
+        System.out.println(students.size());
 
         // method are same as ArrayList diffrence is
         // how they work internaly.

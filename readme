@@ -78,4 +78,8 @@
  -----------------------------------
 |           Collections             |
 |   Array                           |
-|
+|   ArrayList                       |
+|   LinkedList                      |
+|   Stack                           |
+|   Queue                           |
+|   HashMap                         |

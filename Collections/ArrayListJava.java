@@ -22,7 +22,10 @@ public class ArrayListJava {
         // updating elements
         students.set(0, "Riyansh");
 
-        // removing elements
+        // removing element
+        System.out.println(students.remove(0)); // return element
+
+        // size
         System.out.println(students.size());
 
         // looping
