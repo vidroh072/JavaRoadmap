@@ -1,0 +1,13 @@
+# Ignore the compiler output folder entirely
+out/
+
+# Ignore personal workspace layout and temporary caches
+.idea/workspace.xml
+.idea/caches/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Keep your shared configuration files and module maps
+# Do NOT ignore .iml or misc.xml for basic Java projects!

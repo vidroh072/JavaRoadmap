@@ -38,7 +38,7 @@ public class StackJava {
     // push(java)     push(python)     pop()
     // top - > Java   top - > python   top-> Java
     //                        Java
-    // Every operation happens only at top
+    // ✅ Every operation happens only at top
     // That's why stack are efficient for LIFO
 
     // Real world example

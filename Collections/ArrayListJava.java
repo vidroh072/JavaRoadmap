@@ -2,6 +2,11 @@ package Collections;
 
 import java.util.ArrayList;
 public class ArrayListJava {
+    // why if we had array
+    // array problems
+    //  ❌ Wasted of memory
+    //  ❌ Fixed size
+
     // Most used collection *
     // Automaticaly grows when needed
 
@@ -42,7 +47,10 @@ public class ArrayListJava {
         // 4. Discard the old array
 
         // pros:
-        // - fast for reading
+        // ✅ fast for reading
+        // ✅ Variable size
+        // ✅ Save memory
+
         // cons:
         // - slow for Insetion & Deletion at the beginning.
         //      # bcz all subsequent elements must be shifted

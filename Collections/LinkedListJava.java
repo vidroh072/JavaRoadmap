@@ -11,7 +11,7 @@ package Collections;
 
 //  --------    
 //  --------            --------
-// |  Rahul |   ---->  |  Amit  |  ---->  | Rohan
+// |  Riyansh |   ---->  |  Anishk  |  ---->  | Ayush
 // |  --- null          --------
 //  --------
 //  --------        Each box is called node.
@@ -22,29 +22,30 @@ package Collections;
 // ----------------------                    next node
 
 // ----------------------
-// | Rahul | ------>    |   
+// | Riyansh | ----->    |
 // ----------------------      
 
 // we simply move head refrence
-// head = Amit  after head = Rahul
+// head = Riyansh after head = Anishk
 
 // problem:
-//  - reading is slow;
-//      bcz reading start at the head, it visit each node
-//      to reach desired location.
+//  ❌ reading is slow;
+//     bcz reading start at the head, it visit each node
+//     to reach desired location.
 //  - thats why list.get()  - is slower than ArrayList;
 
 import java.util.LinkedList;
 public class LinkedListJava {
     public static void main(String[] args) {
         LinkedList <String> students = new LinkedList<>();
-        // Insertion -- fast
+
+        // ✅ Insertion -- fast
         students.add("Riyansh"); 
         students.add("Anishk"); 
         students.add("Ayush");
     
 
-        // reading -- slow
+        // ❌ reading -- slow
         System.out.println(students.get(2));
 
         // update   -- slow
@@ -52,7 +53,7 @@ public class LinkedListJava {
         // bcz element are stored in continous way! 
         students.set(2, "karn");
 
-        // remove   -- fast
+        // ✅ remove   -- fast
         students.remove(0);
         System.out.println(students);
 

@@ -25,7 +25,7 @@ import java.util.HashMap;
 
  #Java's Solution
  Java created HashMap. A HashMap stores data as:
-    Key → Value
+    ✅ Key → Value
     Riyansh  → 98xxxxxxxx
     Anishk   → 91xxxxxxxx
     Ayush    → 99xxxxxxxx

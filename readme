@@ -83,3 +83,6 @@
 |   Stack                           |
 |   Queue                           |
 |   HashMap                         |
+|   HashSet                         |
+|   TreeSet                         |
+|   LinkedHashSet                   |
