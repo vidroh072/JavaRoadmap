@@ -19,6 +19,7 @@ public class ArrayListJava {
         students.add("Anishk"); 
         students.add("Ayush");
 
+
         // accessing element
         // why arraylist use get() and array [] bcz arraylist is class
         // so it provide methods

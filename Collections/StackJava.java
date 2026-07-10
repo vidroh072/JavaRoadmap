@@ -18,12 +18,13 @@ public class StackJava {
         students.push("Ayush");    // Anishk
                                        // Riyansh
         System.out.println(students);  // [,]
+
         // method pop() -> removes element
         System.out.println(students.pop()); // stack
                                             //  Anishk - top
                                             //  Ayush
-        // method peek() -> return top element
-        //                  without removing
+
+        // method peek() -> return top element without removing
         System.out.println(students.peek());
 
         // method isEmpty() -> check stack

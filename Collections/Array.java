@@ -13,6 +13,7 @@ public class Array {
         //                    0        1        2        3
         String[] foods = new String[5]; // declaring empty array  of 5 lenght
 
+
         // String name = fruits[0];
         // int num = fruits.length;     // lenght is fx not method
         // Arrays.sort(fruits);     --> sorting

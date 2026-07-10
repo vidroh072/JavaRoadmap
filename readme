@@ -86,3 +86,15 @@
 |   HashSet                         |
 |   TreeSet                         |
 |   LinkedHashSet                   |
+|   LinkedHashMap                   |
+|   TreeMap                         |
+|   Collection concept - Generics   |
+|   PriorityQueue                   |
+|   ArrayDeque                      |
+|   Vector                          |
+|   Collection concept - Iterator   |
+|   Collection concept - Comparable |
+|   Collection concept - Comparator |
+|                CollectionUtility| |
+ -----------------------------------
+|

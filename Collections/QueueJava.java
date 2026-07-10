@@ -10,11 +10,11 @@ package Collections;
     // A Queue is a linear data structure that follows
     // the FIFO principle. First in First Out
     // Comparision Stack & Queue
-    //   Stack              Queue
-    // push(Riyansh)    add Riyansh
-    // push(Ayush)      add Ayush
-    // push(Anishk)     add Anishk      FIFO
-    // pop() -> Anishk  remove - Riyansh
+    //   Stack               Queue
+    // push(Riyansh)       add Riyansh
+    // push(Ayush)         add Ayush
+    // push(Anishk)        add Anishk      FIFO
+    // pop() -> Anishk     remove - Riyansh
 
     // Bus Ticket Queue
     // first customer arrive serve first
