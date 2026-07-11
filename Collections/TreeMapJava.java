@@ -12,7 +12,7 @@ import java.util.TreeMap;
     103 -> Nagpur
     103 -> Mandsaur
     103 -> Ratlam
- using LinkedHashMap output will
+ using LinkedHashMap Day.output will
     - Ordered inserted
     - Key -> value pair
 

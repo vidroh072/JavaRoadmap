@@ -1,10 +1,12 @@
+package Day1;
+
 public class operators {
     public static void main(String[] args) {
         
         int x = 5;
         int y = 4;
         float result;
-        // operators
+        // Day.operators
         // x + y
         // x - y
         // x / y
@@ -13,10 +15,10 @@ public class operators {
         result =x%y;
         System.out.println(result);
 
-        // Augmented assignment operators
+        // Augmented assignment Day.operators
         x += y;    // x = x + y
 
-        // Increment and Decrement operators
+        // Increment and Decrement Day.operators
         int p = 1;
         int q = 1;
         p++;  // p=p+1

@@ -1,4 +1,4 @@
-# Ignore the compiler output folder entirely
+# Ignore the compiler Day1.output folder entirely
 out/
 
 # Ignore personal workspace layout and temporary caches

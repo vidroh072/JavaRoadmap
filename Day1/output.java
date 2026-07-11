@@ -1,3 +1,5 @@
+package Day1;
+
 public class output {
     // this is comment 
     public static void main(String[] args) {

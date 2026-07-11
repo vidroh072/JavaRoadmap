@@ -1,7 +1,7 @@
 package Day2;
 public class printf{
     public static void main(String[] args) {
-        // printf() = is a method used to format output
+        // printf() = is a method used to format Day.output
 
         // %[flags][width][.precision][specifier-character]
 
@@ -27,7 +27,7 @@ public class printf{
         System.out.printf("Price 2 %.1fRs\n",price2);
 
         //  [flags]
-        //  + = output a plus            ----> show sign before positive numbers
+        //  + = Day.output a plus            ----> show sign before positive numbers
         //  , = comma grouping seprator  ----> seprate like 10,000
         //  ( = negative numbers are enclosed in ()
         //  space = display a minus if negative, space if positive 

@@ -11,7 +11,7 @@ public class rockPaperSessior {
         String[] options = {"stone","paper","sessior"};
         String computer = options[random.nextInt(3)];
 
-        //user input
+        //user Day.input
         System.out.println("==== Welcome to Game ====");
         System.out.println("select from # (stone, sessior, paper)");
         System.out.print(" ----> ");

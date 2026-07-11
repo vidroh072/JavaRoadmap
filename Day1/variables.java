@@ -1,3 +1,5 @@
+package Day1;
+
 public class variables {
     public static void main(String[] args) {
         // variable are containers 

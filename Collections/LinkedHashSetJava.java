@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
  we already have HashSet TreeSet
  Suppose users register in this order
  Riyasnh -> Ayush -> Anishk
- you store them in HashSet output will be
+ you store them in HashSet Day.output will be
     Unordered
   Now manager says show them in order they register.
   can HashSet guarantee that can TreeSet do that.
