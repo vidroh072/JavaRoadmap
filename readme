@@ -73,7 +73,7 @@
 |             Exception             |
  -----------------------------------
 |   ExceptionalHandling             |
-|   Throw                           |
+|   Throw / Throws                  |
 |   CustomException                 |
  -----------------------------------
 |           Collections             |

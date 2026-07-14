@@ -15,8 +15,6 @@ class Cat extends Animal{    // extends Animal -> inheritance of Animal class
 class Dog extends Animal{
     
 }
-
-
         //       Animal (class)
         //          |
         //      ---------       Dog and Cat class inheritance from Animal

@@ -23,7 +23,7 @@ public class Main {
         if (type.equals("cat")) animal = new Cat();
         else animal = new Dog();
 
-        animal.eat();
+        animal.eat();   // same animal vairable use
         
     }
 }

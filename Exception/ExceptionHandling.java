@@ -3,6 +3,7 @@ package Exception;
 public class ExceptionHandling {
     public static void main(String[] args) {
         // Exception is event that interrupts the normal flow of program excecution;
+        // can be handle by try-catch
 
         try{
         System.out.println(10/0);

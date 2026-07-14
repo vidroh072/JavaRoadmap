@@ -1,4 +1,21 @@
 package MoreAboutOOps.MethodOverloading;
+class Animal {
+
+    void move(){        // move method
+        System.out.println("The Animal is Running");
+    }
+
+}
+class Dog extends Animal{
+
+}
+class Fish extends Animal{
+
+    @Override
+    void move(){
+        System.out.println("The animal is Swimming!");
+    }
+}
 
 public class Main {
     public static void main(String[] args) {

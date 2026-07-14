@@ -1,5 +1,14 @@
 package ObjectOrientedProgramming.Static;
+class Friend {
+    // int numOfFreinds;        // numOfFreinds is now object specific
+    static int numOfFreinds;    // now it is not object specified
+    String name;
 
+    Friend(String name){
+        numOfFreinds++;
+    }
+
+}
 public class Main {
     public static void main(String[] args) {
         

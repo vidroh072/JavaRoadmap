@@ -16,6 +16,7 @@ public class Main {
         System.out.println(user2.name);
         System.out.println(user3.email);
         System.out.println(user4.age);
+        System.out.println(user1.name);
     }
     
 }

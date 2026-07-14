@@ -1,10 +1,8 @@
 package Exception;
 
-import java.io.IOException;
-
 public class Throw {
     //Throw is used to manually create and throw an exception
-    //  Actualy thow an exception
+    //  Actualy throw an exception
     public static void main(String[] args) {
         bookSeat(-10);
         
